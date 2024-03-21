@@ -9,9 +9,11 @@ Aplicativo de películas realizado en React Native CLI.
 4. Ejecutar el proyecto `npx react-native run-android`
 5. IOS: `npm run start:ios` configurar el simulador
 
-## Vistas
+## Vista inicio
 
 ![Home](./img/home.png)
+
+## Vistas detalle
 ![Detalle 1](./img/detail_1.png)
 ![Detalle 2](./img/detail_2.png)
 
